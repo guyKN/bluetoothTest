@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Test</string>
+    <string name="make_device_discoverable">make device discoverable</string>
+    <string name="scan_for_nearby_devices">Scan for nearby devices</string>
+    <string name="device_found">Device Found</string>
+    <string name="no_device_found">no device found</string>
+</resources>
